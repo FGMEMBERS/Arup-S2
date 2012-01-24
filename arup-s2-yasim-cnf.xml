@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList include="arup-s2-base.xml">
+
+  <sim>
+
+    <description>Arup S2 (YASim)</description>
+    <flight-model>yasim</flight-model>
+    <aero>arup-s2-yasim</aero>
+
+  </sim>
+
+</PropertyList>
+
