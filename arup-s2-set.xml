@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="arup-s2-base.xml">
+  
+  <sim>
+
+    <description>Arup S2 (YASim)</description>
+    <author>Emmanuel BARANGER (3D/FDM)</author>
+    <flight-model>yasim</flight-model>
+    <aero>arup-s2-yasim</aero>
+    
+    <rating>
+      <FDM type="int">     1 </FDM>
+      <systems type="int"> 1 </systems>
+      <cockpit type="int"> 1 </cockpit>
+      <model type="int">   3 </model>
+    </rating>
+
+  </sim>
+
+</PropertyList>
