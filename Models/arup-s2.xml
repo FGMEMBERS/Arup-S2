@@ -123,6 +123,8 @@
   <effect>
     <inherits-from>Effects/model-transparent</inherits-from>
     <object-name>vitres</object-name>
+    <object-name>propdisc</object-name>
+    <object-name>propblur</object-name>
   </effect>
   
   <!-- Une ombre pour OSG -->
@@ -137,6 +139,7 @@
   
   <!-- Interieur -->
   <model>
+    <usage>interior</usage>
     <path>Aircraft/Arup-S2/Models/Interior/interior.xml</path>
   </model>
   
