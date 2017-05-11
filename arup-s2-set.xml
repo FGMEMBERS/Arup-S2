@@ -8,6 +8,16 @@
     <author>Emmanuel BARANGER (3D/FDM)</author>
     <flight-model>yasim</flight-model>
     <aero>arup-s2-yasim</aero>
+
+    <tags>
+      <tag>lifting-body</tag>
+      <tag>tail-dragger</tag>
+      <tag>fixed-gear</tag>
+      <tag>single-engine</tag>
+      <tag>piston</tag>
+      <tag>1930s</tag>
+      <tag>stol</tag>
+    </tags>
     
     <rating>
       <FDM type="int">     1 </FDM>
